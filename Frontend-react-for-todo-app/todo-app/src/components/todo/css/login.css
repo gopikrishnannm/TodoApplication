@@ -1,0 +1,66 @@
+/* login.css */
+.Login {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; /* Set the font size */
+    font-weight: bold; /* Set the font weight */
+    letter-spacing: 1px; /* Add letter spacing */
+
+  }
+  
+  .Login h1 {
+    text-align: center;
+    padding: 0px;
+    font-family: 'sans-serif';
+  }
+  
+  .Login .errorMessage {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .Login .LoginForm {
+    margin-top: 20px;
+  }
+  
+  .Login .LoginForm div {
+    margin-bottom: 15px;
+  }
+  
+  .Login .LoginForm label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .Login .LoginForm input[type="text"],
+  .Login .LoginForm input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .Login .LoginForm button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .Login .LoginForm button:hover {
+    background-color: #45a049;
+  }
+  .body{
+    background-color: black;
+  }
+  
+  
+  
+  

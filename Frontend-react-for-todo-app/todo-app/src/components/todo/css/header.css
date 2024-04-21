@@ -1,0 +1,26 @@
+/* header.css (assuming you have a separate stylesheet for the header component) */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  .header ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .header a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .header a:hover {
+    text-decoration: underline;
+  }

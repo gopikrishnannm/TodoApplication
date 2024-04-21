@@ -1,0 +1,21 @@
+.WelcomeComponent {
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+
+}
+
+.todos-link {
+  font-size: 16px;
+  color: #666;
+}
+
+h1{
+  padding: 20px;
+  font-family: 'sans-serif';
+  font-weight:normal;
+}
